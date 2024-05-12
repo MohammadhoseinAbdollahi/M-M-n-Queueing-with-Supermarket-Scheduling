@@ -4,5 +4,5 @@ In M/M/n Queueing with Supermarket Scheduling, incoming tasks are assigned to th
 
 ## Contributers
 
-### -[@mohiabd99](https://github.com/Mohiabd99)
-### -[@anitatehrani](https://github.com/anitatehrani)
+#### -[@mohiabd99](https://github.com/Mohiabd99)
+#### -[@anitatehrani](https://github.com/anitatehrani)
